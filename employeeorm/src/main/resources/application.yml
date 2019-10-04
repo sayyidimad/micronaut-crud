@@ -10,6 +10,7 @@ datasources:
     driverClassName: org.postgresql.Driver
     username: root
     password: ''
+    
 jpa:
   default:
     properties:
